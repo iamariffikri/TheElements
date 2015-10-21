@@ -147,7 +147,3 @@ AtomicElementFlippedView.m
 
 This view displays the Atomic name, number, and state of the current element, as well as a
 link to the appropriate page on Wikipedia.
-
-
-
-Copyright (C) 2008-2015 Apple Inc. All rights reserved.
